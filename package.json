@@ -1,0 +1,16 @@
+{
+  "name": "ya-appmetrica",
+  "version": "1.0.0",
+  "description": "Yandex AppMetrica API Wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yendex",
+    "api",
+    "appmetrica"
+  ],
+  "author": "Sergey Sergeev <gurugray@yandex.ru>",
+  "license": "BSD-3-Clause"
+}
