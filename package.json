@@ -1,16 +1,25 @@
 {
-  "name": "ya-appmetrica",
+  "name": "bot-metrica",
   "version": "1.0.0",
-  "description": "Yandex AppMetrica API Wrapper",
+  "description": "Simple Metrica for Telegram Bots",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gurugray/bot-metrica.git"
   },
   "keywords": [
     "yendex",
     "api",
-    "appmetrica"
+    "metrica",
+    "telegram",
+    "bot"
   ],
   "author": "Sergey Sergeev <gurugray@yandex.ru>",
-  "license": "BSD-3-Clause"
+  "licenses": [ {
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/MIT"
+  } ],
+  "dependencies": {
+    "yametrika": "^1.0.2"
+  }
 }
