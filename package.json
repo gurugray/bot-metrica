@@ -1,6 +1,6 @@
 {
   "name": "bot-metrica",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Metrica for Telegram Bots",
   "main": "index.js",
   "repository": {
@@ -8,7 +8,7 @@
     "url": "git://github.com/gurugray/bot-metrica.git"
   },
   "keywords": [
-    "yendex",
+    "yandex",
     "api",
     "metrica",
     "telegram",
